@@ -1,3 +1,6 @@
+# Claude AI memory
+.claude/
+
 # Dependencies
 node_modules/
 
