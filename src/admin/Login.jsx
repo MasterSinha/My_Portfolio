@@ -43,7 +43,7 @@ export default function Login({ onLogin }) {
               required
               className="w-full rounded-xl px-4 py-3 text-sm text-[#e2e2e2] placeholder-[#444] focus:outline-none transition-all duration-300"
               style={{ background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.08)' }}
-              onFocus={e => { e.currentTarget.style.borderColor = 'rgba(99,102,241,0.5)'; }}
+              onFocus={e => { e.currentTarget.style.borderColor = 'rgba(6,182,212,0.5)'; }}
               onBlur={e => { e.currentTarget.style.borderColor = 'rgba(255,255,255,0.08)'; }}
             />
           </div>
@@ -55,9 +55,6 @@ export default function Login({ onLogin }) {
             {loading ? 'Signing in…' : 'Sign In →'}
           </button>
 
-          <p className="text-center font-mono-custom text-[10px] text-[#333]">
-            Default password: <span className="text-[#555]">admin@portfolio</span>
-          </p>
         </form>
 
         <div className="text-center mt-6">
