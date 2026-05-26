@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "period": "2024 — Present",
+    "role": "ML Engineer Intern",
+    "company": "AI Startup",
+    "type": "Full-time",
+    "description": "Building end-to-end ML pipelines for NLP classification and anomaly detection. Reduced inference latency by 40% via ONNX export and INT8 quantization.",
+    "technologies": ["PyTorch", "FastAPI", "ONNX", "Docker"],
+    "accent": "#818cf8"
+  },
+  {
+    "id": 2,
+    "period": "2023",
+    "role": "Data Science Intern",
+    "company": "Analytics Firm",
+    "type": "Internship",
+    "description": "Developed churn prediction models (XGBoost, LightGBM) with 89% AUC. Automated weekly reporting dashboards, saving 8+ man-hours/week.",
+    "technologies": ["XGBoost", "Python", "Power BI", "SQL"],
+    "accent": "#c084fc"
+  },
+  {
+    "id": 3,
+    "period": "2022 — 2023",
+    "role": "Research Assistant",
+    "company": "University Lab",
+    "type": "Research",
+    "description": "Contributed to computer vision research on medical image segmentation. Implemented U-Net variants; experiments on university GPU cluster.",
+    "technologies": ["TensorFlow", "OpenCV", "Python", "HPC"],
+    "accent": "#22d3ee"
+  },
+  {
+    "id": 4,
+    "period": "2021 — 2022",
+    "role": "Freelance Data Analyst",
+    "company": "Self-employed",
+    "type": "Freelance",
+    "description": "Delivered data analysis and visualisation for 8+ clients. Built automated ETL pipelines reducing client manual effort by 70%.",
+    "technologies": ["Pandas", "Matplotlib", "Excel", "SQL"],
+    "accent": "#34d399"
+  }
+]

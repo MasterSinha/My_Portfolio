@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Kaggle Expert",
+    "description": "Ranked in the top 5% of Kaggle competitors globally with multiple Gold medals in ML competitions.",
+    "metric": "Top 5%",
+    "accent": "#f59e0b",
+    "certificationUrl": ""
+  },
+  {
+    "id": 2,
+    "title": "Open Source Contributor",
+    "description": "Active contributor to major ML libraries including scikit-learn and Pandas with merged PRs.",
+    "metric": "12+ PRs",
+    "accent": "#818cf8",
+    "certificationUrl": ""
+  },
+  {
+    "id": 3,
+    "title": "Research Publication",
+    "description": "Co-authored a research paper on efficient transformer architectures accepted at a national AI conference.",
+    "metric": "Published",
+    "accent": "#c084fc",
+    "certificationUrl": ""
+  },
+  {
+    "id": 4,
+    "title": "Hackathon Winner",
+    "description": "1st place in a national-level data science hackathon with 500+ participating teams.",
+    "metric": "#1 of 500+",
+    "accent": "#22d3ee",
+    "certificationUrl": ""
+  }
+]

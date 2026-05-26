@@ -1,0 +1,43 @@
+{
+  "name": "Ayush Sinha",
+  "tagline": "Data Scientist & Data Analytics",
+  "email": "sinhayush505@gmail.com",
+  "location": "India",
+  "education": "B.E - Computer Engineering",
+  "status": "Open to work",
+  "available": true,
+  "bio": [
+    "Hi, I'm Ayush Sinha — a Data Scientist and ML Engineer passionate about building intelligent systems that solve real-world problems. I specialise in machine learning pipelines, deep learning models, and scalable big-data architectures.",
+    "From exploratory data analysis to deploying production-grade ML models, I thrive across the full data lifecycle. Fascinated by the intersection of AI research and engineering — always exploring NLP, computer vision, and generative AI."
+  ],
+  "stats": [
+    {
+      "value": "",
+      "label": ""
+    },
+    {
+      "value": "",
+      "label": ""
+    },
+    {
+      "value": "",
+      "label": ""
+    }
+  ],
+  "github": "https://github.com/",
+  "linkedin": "https://linkedin.com/in/",
+  "kaggle": "https://kaggle.com/",
+  "resumeUrl": "/resume.pdf",
+  "heroHeading": "Building Digital Experiences That Feel Alive.",
+  "roles": [
+    "Data Scientist",
+    "ML Engineer",
+    "Big Data Analyst"
+  ],
+  "pillars": [
+    { "label": "Machine Learning",  "desc": "End-to-end ML pipelines",    "color": "#a3e635" },
+    { "label": "Big Data",          "desc": "Spark, Kafka, Hadoop",        "color": "#22d3ee" },
+    { "label": "Deep Learning",     "desc": "PyTorch, TensorFlow",         "color": "#a3e635" },
+    { "label": "Data Analytics",    "desc": "Insights & Visualisation",    "color": "#4ade80" }
+  ]
+}

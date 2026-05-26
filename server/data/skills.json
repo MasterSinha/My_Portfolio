@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "category": "Languages",
+    "color": "#818cf8",
+    "items": [
+      {
+        "name": "Python",
+        "level": 93
+      },
+      {
+        "name": "SQL",
+        "level": 86
+      },
+      {
+        "name": "C++",
+        "level": 90
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "ML / Deep Learning",
+    "color": "#c084fc",
+    "items": [
+      {
+        "name": "Scikit-learn",
+        "level": 92
+      },
+      {
+        "name": "TensorFlow",
+        "level": 88
+      },
+      {
+        "name": "PyTorch",
+        "level": 83
+      },
+      {
+        "name": "Pandas",
+        "level": 96
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Big Data",
+    "color": "#22d3ee",
+    "items": [
+      {
+        "name": "Apache Spark",
+        "level": 80
+      },
+      {
+        "name": "Kafka",
+        "level": 73
+      },
+      {
+        "name": "NumPy",
+        "level": 95
+      },
+      {
+        "name": "Docker",
+        "level": 78
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Tools & Infra",
+    "color": "#34d399",
+    "items": [
+      {
+        "name": "Git",
+        "level": 88
+      },
+      {
+        "name": "Power BI",
+        "level": 79
+      },
+      {
+        "name": "Matplotlib",
+        "level": 87
+      },
+      {
+        "name": "Airflow",
+        "level": 72
+      }
+    ]
+  }
+]

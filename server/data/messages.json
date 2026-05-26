@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3,
+    "name": "Ayush",
+    "email": "y@gmail.com",
+    "message": "Hii\n",
+    "date": "2026-05-25T23:52:15.244Z",
+    "read": false
+  },
+  {
+    "id": 2,
+    "name": "Ayush",
+    "email": "sinha@gmail.com",
+    "message": "Hi its been a nice for me",
+    "date": "2026-05-25T23:51:09.671Z",
+    "read": false
+  },
+  {
+    "id": 1,
+    "name": "Test",
+    "email": "test@test.com",
+    "message": "Hello",
+    "date": "2026-05-25T23:50:02.465Z",
+    "read": true
+  }
+]
